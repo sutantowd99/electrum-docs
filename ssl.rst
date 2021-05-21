@@ -21,7 +21,7 @@ Create a file that contains only the private key:
 .. code-block:: openssl
 
    -----BEGIN PRIVATE KEY-----
-   your private key
+   zpub6nAwMnLYoWNXbAtUxV3r7ug1dZLAx8CyZhkXRzU1WC6BvPFKu18qzHLmYXeFUQBQVcZzyTZ9mRF8vJxtYocvYoQYnsBvddbSzbPPP6LeEQK
    -----END PRIVATE KEY-----
 
 Please note that this is not your wallet key but a private key for the
